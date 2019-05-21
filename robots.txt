@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeipheezu.yotsubasociety.org/sitemap.xml
